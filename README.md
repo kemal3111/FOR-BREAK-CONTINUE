@@ -79,7 +79,7 @@ using namespace std;
 int main(){
     int x = 0;
     while (x < 50){
-        if(x == 4){
+        if(x == 10){
               x++;
               continue;
         }
